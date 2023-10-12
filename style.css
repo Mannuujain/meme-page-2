@@ -1,0 +1,68 @@
+*{
+    background-color: black;
+}
+h1{
+    border: 10px solid whitesmoke;
+    font-weight: normal;
+    text-align: center;
+    background-color: #6499E9;
+    font-family: cursive;
+}
+#time2{
+    height: 150px;
+    border: 10px solid whitesmoke;
+}
+div{
+    text-align: center;
+}
+#whats{
+    border: 10px solid whitesmoke;
+    font-weight: normal;
+    text-align: center;
+    background-color: #6499E9;
+    font-family: cursive;
+}
+#food1{
+    height: 150px;
+    border: 10px solid whitesmoke;
+}
+#he{
+    border: 10px solid whitesmoke;
+    font-weight: normal;
+    text-align: center;
+    background-color: #6499E9;
+    font-family: cursive;
+}
+#tas{
+  height: 150px;
+    border: 10px solid whitesmoke;  
+}
+#eas{
+    border: 10px solid whitesmoke;
+    font-weight: normal;
+    text-align: center;
+    background-color: #6499E9;
+    font-family: cursive;
+}
+#ex{
+    height: 150px;
+    border: 10px solid whitesmoke;
+}
+#pre{
+    border: 10px solid whitesmoke;
+    font-weight: normal;
+    text-align: center;
+    background-color: #6499E9;
+    font-family: cursive;
+}
+#hurt{
+    height: 150px;
+    border: 10px solid whitesmoke;
+}
+#dont{
+    border: 10px solid whitesmoke;
+    font-weight: normal;
+    text-align: center;
+    background-color: #6499E9;
+    font-family: cursive;
+}
